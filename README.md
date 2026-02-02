@@ -70,8 +70,8 @@
 
 ### Activity 👩‍💻
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NguyenDuy04&count_private=true&show_icons=true&locale=en&layout=pie&theme=tokyonight&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=NguyenDuy04&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDuy04&layout=compact&theme=tokyonight&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=NguyenDuy04&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
