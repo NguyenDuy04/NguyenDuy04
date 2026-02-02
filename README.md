@@ -3,50 +3,32 @@
 
 ---
 
+<p align="center">Mình là một người đam mê công nghệ và đang trong hành trình tự học để trở thành một <b>Software Engineer</b> thực thụ. Với mình, mỗi dòng code đều là một bước tiến mới trong việc chinh phục những thử thách kỹ thuật.</p>
+
 <p align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding" />
 </p>
 
 ---
 
-### ✨ About Me
-
+### 🚀 Overview
 - 💻 Frontend Developer based in **Vietnam**
-- 🌱 Currently mastering **ReactJS**, **Tailwind CSS**, and **Node.js**
 - 🎯 Passionate about **UI/UX**, web performance & clean code
 - ⚙️ Obsessed with detail, animations & seamless user experience
 - 🎨 Turning designs into real, responsive, beautiful interfaces
 - 🚀 On my way to becoming a **Fullstack Developer**
-- ☕ Fueled by coffee and lo-fi beats 🎧
-- 🌱 I’m currently learning Everything 😎
+- ☕ Fueled by coffee and lo-fi beats 🎧 
+
+---
+
+### ✨ About Me
+- 🌱 I’m currently learning **Everything** 😎
 - 💬 Ask me about anything 🤣
 - 📫 How to reach me: **duynguyenvan.1506@gmail.com**
 
-> 💡 _“Clean UI. Clean Code. Clear Mind.”_  
-> 💭 _“Design is intelligence made visible.”_  
-> 🔁 _“Always Building. Always Learning.”_
-
----
-
-### 🛠️ Tech Stack
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nodejs,vite,git,vscode" alt="Tech Stack" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=NguyenDuy04&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=NguyenDuy04&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### ⌨️ Typing SVG
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&center=true&vCenter=true&width=500&lines=Frontend+Developer;ReactJS+%7C+TailwindCSS+%7C+Node.js;Loves+Beautiful+UI+and+Coffee;Always+Building+and+Learning" />
-</p>
+> 💡 *“Clean UI. Clean Code. Clear Mind.”*
+> 💭 *“Design is intelligence made visible.”*
+> 🔁 *“Always Building. Always Learning.”*
 
 ---
 
@@ -59,19 +41,27 @@
 
 ---
 
-### Insights ✨
+### 🛠️ My Toolbox
+- **Ngôn ngữ:** ![JavaScript](https://img.shields.io/badge/-JavaScript-eed718?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- **Frontend:** `HTML5`, `CSS3`, `TailwindCSS`, `ReactJS`
+- **Công cụ:** `Git`, `GitHub`, `VS Code`, `Figma`
+
+---
+
 <p align="center">
-    <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=208637913" target="_blank">
-        <img alt="Dashboard stats" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=208637913&image_size=auto&color_scheme=dark" width="771" />
-    </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&center=true&vCenter=true&width=500&lines=Frontend+Developer;ReactJS+%7C+TailwindCSS+%7C+Node.js;Loves+Beautiful+UI+and+Coffee;Always+Building+and+Learning" alt="Typing SVG" />
 </p>
 
 ---
 
-### Activity 👩‍💻
+### 📊 GitHub Stats & Activity
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDuy04&layout=compact&theme=tokyonight&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=NguyenDuy04&theme=tokyonight&hide_border=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=NguyenDuy04&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img height="180" src="https://streak-stats.demolab.com?user=NguyenDuy04&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=NguyenDuy04&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
