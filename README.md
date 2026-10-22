@@ -57,14 +57,10 @@ I'm **Duy**, a developer and continuous learner. I enjoy building real, working 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=NguyenDuy04&theme=tokyonight&hide_border=true&background=0D1117&ring=14B8A6&fire=3DDC97" alt="GitHub streak"/>
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=208637913" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=208637913&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @NguyenDuy04" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=208637913&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NguyenDuy04&theme=radical)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDuy04&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenDuy04&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=NguyenDuy04&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
